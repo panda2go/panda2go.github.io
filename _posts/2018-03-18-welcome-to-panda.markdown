@@ -4,7 +4,7 @@ title:  "How to Change Your Mindset for Growth"
 date:   2018-03-18 15:36:27
 ---
 
-<h2> “Pop quiz. Which of these do you agree with?" </h1>
+<h1> “Pop quiz. Which of these do you agree with?" </h1>
 
 <p>
 1. Intelligence is fixed at birth.<br><br>
