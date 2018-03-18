@@ -7,11 +7,9 @@ permalink: /about/
 {% include image.html url="/images/panda.png" caption="panda." width=300 align="right" %}
 
 <p>
-A human being is part of the whole, called by us 'Universe'; a part limited in time and space. He experiences himself, his thoughts and feelings as something separated from the rest -- a kind of optical delusion of his consciousness.
 <br>
-This delusion is a kind of prison for us, restricting us to our personal desires and affection for a few persons nearest us.
+Also called giant panda. a large black-and-white herbivorous bearlike mammal, Ailuropoda melanoleuca,
 <br>
-Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty.
+related to the raccoons and inhabiting the high mountain bamboo forests of China: family Procyonidae
 <br>
-Nobody is able to achieve this completely but striving for such achievement is, in itself, a part of the liberation and a foundation for inner security.
 </p>
