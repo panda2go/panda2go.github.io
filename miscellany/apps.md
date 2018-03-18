@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apps (IOS, Android)
-permalink: /miscellany/item-2/
+permalink: /miscellany/apps/
 ---
 
-ITEM 2
+apps
