@@ -8,15 +8,15 @@ categories: jekyll update
 “Pop quiz. Which of these do you agree with?"
 
 `
-Intelligence is fixed at birth.
-Some people are creative, others are not.
-You can become a world-class expert through enough practice, whatever your starting point.
-You can change your personality.
+Intelligence is fixed at birth.<br>
+Some people are creative, others are not. <br>
+You can become a world-class expert through enough practice, whatever your starting point. <br>
+You can change your personality. <br>
 
-“If you agreed with the first two statements, you’re coming from a fixed mindset.
-If you agreed with the second two, you have got a growth mindset.”   
+“If you agreed with the first two statements, you’re coming from a fixed mindset.<br>
+If you agreed with the second two, you have got a growth mindset.”   <br>
 `
 
-Check out [turtle2go] for more info on how to get the most out of common sense.
+Check out [turtle2go] for more info on how to get the most out of common sense. <br>
 
 [turtle2go]:      https://turtle2go.github.io
