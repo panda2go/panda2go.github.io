@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Item 2
+title: Apps (IOS, Android)
 permalink: /miscellany/item-2/
 ---
 
