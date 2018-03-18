@@ -1,7 +1,0 @@
----
-layout: page
-title: Item 2
-permalink: /miscellany/item-2/
----
-
-ITEM 2
