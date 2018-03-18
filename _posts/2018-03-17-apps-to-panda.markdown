@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Change Your Mindset for Growth"
 date:   2018-03-18 15:36:27
-categories: /miscellany/apps/
+categories: Panda update
 ---
 
 <h1> “Pop quiz. Which of these do you agree with?" </h1>
