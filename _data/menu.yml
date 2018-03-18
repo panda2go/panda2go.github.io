@@ -14,3 +14,5 @@
       subhref: "/miscellany/item-1/"
     - subtitle: "Item 2"
       subhref: "/miscellany/item-2/"
+    - subtitle: "apps"
+      subhref: "/miscellany/apps/"
