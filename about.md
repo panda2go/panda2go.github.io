@@ -14,10 +14,7 @@ related to the raccoons and inhabiting the high mountain bamboo forests of China
 </h3>
 <br>
 
-Check out my antoher homepage http://turtle2go.github.io for more information on new technology
+Check out <a href="https://turtle2go.github.io"> my tech turtle's Home </a> for more information on new technology
 <br>
 </p>
 
-<br>
-<br>
-<br>
