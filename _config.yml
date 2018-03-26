@@ -3,7 +3,7 @@
 author: panda
 title: Welcome to panda's Home
 email: panda2gogo@gmail.com
-description: # this means to ignore newlines until "baseurl:"
+description: Check out http://turtle2go.github.io for more information on new technology 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://panda2go.github.io" # the base hostname & protocol for your site
 
