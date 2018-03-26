@@ -20,6 +20,6 @@ If you agreed with the second two, you have got a growth mindset.”   <br>
 </p>
 <br>
 
-Check out [turtle2go] for more info on how to get the most out of common sense. <br>
+Check out [turtle2go] for more information on new technology <br>
 
 [turtle2go]:      https://turtle2go.github.io
